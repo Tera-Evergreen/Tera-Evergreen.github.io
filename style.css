@@ -1,0 +1,9 @@
+:root{--bg:#F6F5F2;--ink:#092E29;--accent:#2CAF83;--sage:#E5EEDD}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 "Segoe UI",system-ui,sans-serif}
+main{max-width:680px;margin:0 auto;padding:48px 20px}
+h1{font-family:Consolas,"Courier New",monospace;font-weight:700;letter-spacing:-.5px}
+h1 span{color:var(--accent)}
+h2{margin-top:2em;font-size:1.1em}
+.card{background:var(--sage);border-radius:10px;padding:16px 20px}
+a{color:#1d7f5e}
+footer{margin-top:3em;font-size:.9em;opacity:.7}
